@@ -1,0 +1,23 @@
+.react-calendar{
+    border: 0;
+    text-transform: capitalize;
+}
+.react-calendar__tile{
+    font-size: 15px;
+}
+.react-calendar__month-view__weekdays{
+    text-transform: capitalize;
+    color: black;
+    font-size: 14px;
+}
+.react-calendar__month-view__days__day--weekend {
+    color: black;
+}
+.react-calendar__tile--active {
+    background-color: #8C30F5;
+    color: white;
+}
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+  background-color: #e6e6e6;
+}
