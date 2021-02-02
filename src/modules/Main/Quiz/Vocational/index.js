@@ -80,13 +80,13 @@ function Vocational() {
             <div className="uk-margin-top uk-flex">
               <img src={heartSvg} width="60px" className="uk-padding-small uk-margin-right" alt="" />
               <div className="uk-text-description">
-                Clique no ícone de coração quando encontrar uma afirmativa que você se identifique.
+                Clique no ícone de check verde será quando a ação de conformidade foi realizada pela empresa.
             </div>
             </div>
             <div className="uk-margin-top uk-flex">
               <img src={closeSvg} width="60px" className="uk-padding-small uk-margin-right" alt="" />
               <div className="uk-text-description">
-                Clique no X, caso ache que a informação não se adequa a você.
+                Clique no X, caso ache que a ação de conformidade ainda não foi realizada.
             </div>
             </div>
           </div>

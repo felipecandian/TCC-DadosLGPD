@@ -15,10 +15,10 @@ function Welcome() {
           <div className="uk-flex ul-flex-center uk-flex-middle uk-grid" uk-grid="">
             <div className="uk-width-expand uk-text-left uk-text-left@s uk-first-column">
               <h1 className="uk-text-bold uk-text-primary-dark uk-title-welcome" uk-scrollspy="cls: uk-animation-slide-top-medium; repeat: true">
-                DadosLGPD é um framework que permite analise da score da conformidade
+                DadosLGPD é um framework de conformidade com a LGPD
             </h1>
               <h4 className="uk-text-muted" uk-scrollspy="cls: uk-animation-slide-left-small; repeat: true">
-                Fazemos o analise de conformidade e te dados o roadmap de tarefas para entrar em compliance.
+                Ajudaremos sua empresa entrar em compliance e evitar que sofra vazementos e recebam multas.
             </h4>
             </div>
             <div className="uk-flex uk-flex-center uk-flex-middle uk-flex-last@m">
@@ -37,10 +37,10 @@ function Welcome() {
               <br />
               <br />
               <div className="uk-text-bold uk-text-secondary uk-text-large">
-                Escolas
+                Passo a passo
             </div>
               <div className="uk-margin-top">
-                Agregue valor a seus alunos, oferecendo uma plataforma inovadora que guia os tripulantes por sua carreira.
+                Te ajuraderemos em todo o processo de mapeamento de dados e adotação de estratégias para diagnóstico, planejamento e governança.
             </div>
             </div>
           </div>
@@ -51,14 +51,14 @@ function Welcome() {
                 <br />
                 <br />
                 <div className="uk-text-bold uk-text-secondary uk-text-large">
-                  Alunos
+                 Score de conformidade
                </div>
                 <div className="uk-margin-top">
-                  Descubra, baseado em seus interesses, o que você pode ser, sem pressões e rótulos!
+                  Responda algumas perguntas a respeito do processo de segurança de dados da sua empresa.
                 </div>
                 <br />
                 <div className="uk-text-primary uk-text-meta uk-text-bold">
-                  Explore <span uk-icon="icon: arrow-right"></span>
+                  Fazer analise de score <span uk-icon="icon: arrow-right"></span>
                 </div>
               </div>
             </Link>
@@ -69,10 +69,10 @@ function Welcome() {
               <br />
               <br />
               <div className="uk-text-bold uk-text-secondary uk-text-large">
-                Voluntários
+                Especialistas DPO
             </div>
               <div className="uk-margin-top">
-                Ganhe horas de atividade complementar realizando mentorias de acordo com seu tempo livre
+                Encontre pessoas que podem ajudar sua empresa entrar em conformidade.
             </div>
             </div>
           </div>
@@ -93,7 +93,7 @@ function Welcome() {
               </div>
 
             <br />
-            <Link to="/quiz" style={{ width: '146px', padding: 0 }} className="uk-button uk-button-primary uk-border-rounded uk-text-bold">Score de conformidade</Link>
+            <Link to="/quiz" style={{ width: '146px', padding: 0 }} className="uk-button uk-button-primary uk-border-rounded uk-text-bold">Score LGPD</Link>
 
           </div>
           <div className="uk-flex uk-flex-center uk-flex-middle uk-flex-last@m">

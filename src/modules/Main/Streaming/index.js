@@ -9,11 +9,11 @@ function Streaming() {
     <LazyImage image={streamSvg} width="120px" height="92px" alt="" />
 
     <div className="uk-text-lead uk-text-center uk-margin-top uk-text-primary uk-text-bold">
-          Chamando mentor 
+          Entrando em contato com DPO
           <br />
     </div>
     <div style={{color:"#717171"}} className="uk-text-large uk-text-center uk-margin-top">
-           Você entrará na chamada assim que houver resposta 
+           Um especialista entrará em contato para uma conversa.
     </div>
   </div>
   );
