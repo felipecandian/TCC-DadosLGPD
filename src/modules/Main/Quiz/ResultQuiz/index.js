@@ -138,7 +138,7 @@ function ResultQuiz() {
                           <span class="uk-badge uk-padding-small">19:30</span>
                           <span class="uk-badge uk-padding-small">20:30</span>
                         </div>
-                        <Link to="/mentoring" className="uk-button uk-button-primary uk-border-rounded uk-text-bold"><span uk-icon="icon: clock; ratio:1.3"></span> Agendar mentoria</Link>
+                        <Link to="/mentoring" className="uk-button uk-button-primary uk-border-rounded uk-text-bold"><span uk-icon="icon: clock; ratio:1.3"></span> Agendar reunião</Link>
                       </div>
                     </div>
                   </div>
@@ -233,7 +233,7 @@ function ResultQuiz() {
                           <span class="uk-badge uk-padding-small">19:30</span>
                           <span class="uk-badge uk-padding-small">20:30</span>
                         </div>
-                        <Link to="/mentoring" className="uk-button uk-button-primary uk-border-rounded uk-text-bold"><span uk-icon="icon: clock; ratio:1.3"></span> Agendar mentoria</Link>
+                        <Link to="/mentoring" className="uk-button uk-button-primary uk-border-rounded uk-text-bold"><span uk-icon="icon: clock; ratio:1.3"></span> Agendar reunião</Link>
                       </div>
                     </div>
                   </div>
