@@ -12,8 +12,8 @@ function Header() {
             <ul className="uk-navbar-nav uk-visible@m">
               <li ><Link to="/" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} href="#">Home</Link></li>
               <li ><a href="/#how" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} >Como funciona</a></li>
-              <li ><Link to="/quiz" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} href="/quiz">Alunos</Link></li>
-              <li ><Link to="/mentoring" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} href="/quiz">Mentoria</Link></li>
+              <li ><Link to="/quiz" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} href="/quiz">Score</Link></li>
+              <li ><Link to="/mentoring" style={{ color: '#3C3543', fontSize: '14px', fontWeight: 600 }} href="/quiz">DPO</Link></li>
             </ul>
           </div>
 

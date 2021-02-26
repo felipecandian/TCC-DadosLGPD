@@ -8,9 +8,9 @@ function Mentoring() {
         <div className="uk-container">
             <div className="uk-flex uk-flex-center uk-flex-column uk-flex-middle">
                 <div className="uk-text-lead uk-text-center uk-margin-top uk-text-primary-dark uk-text-bold">
-                    Suas Mentorias
+                    DPO disponíveis
                 </div>
-                <div className="uk-text-bold uk-margin-top" style={{ color: '#404040' }}>Você possui <span className="uk-text-primary">2</span> mentorias online disponívels</div>
+                <div className="uk-text-bold uk-margin-top" style={{ color: '#404040' }}>Você possui <span className="uk-text-primary">2</span> DPO disponíveis para atendimento on-line</div>
 
                 <Link to="/streaming" className="uk-card uk-card-default uk-width-1-2 uk-margin-medium-top uk-flex uk-flex-middle">
                     <div className="uk-card-body">
@@ -19,7 +19,7 @@ function Mentoring() {
                                 <LazyImage image={luanPng} width="80px" />
                                 <div className="uk-margin-left">
                                     <div className="uk-text-bold uk-text-secondary uk-text-large">
-                                        Carlos Alberto
+                                        Thiago Mota
                                 </div>
                                     <div style={{ color: '#696969' }}>
                                         Mentoria sobre <span className="uk-text-primary uk-text-bold">Influenciador Digital</span>
@@ -39,7 +39,7 @@ function Mentoring() {
                     </div>
                 </Link>
                 <div className="uk-margin-top">
-                    <button style={{ padding: '0 15px' }} className="uk-button uk-button-primary uk-border-rounded uk-margin-left uk-text-bold">Quero mais mentorias</button>
+                    <button style={{ padding: '0 15px' }} className="uk-button uk-button-primary uk-border-rounded uk-margin-left uk-text-bold">Encontrar outros DPO</button>
                 </div>
             </div>
         </div>
