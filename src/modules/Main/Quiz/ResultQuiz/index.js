@@ -21,7 +21,7 @@ const data = {
   labels: ['Capacidade Analítica', 'Pensamento Critico', 'Sociabilidade', 'Criatividade', 'Tomada de risco', 'Planejamento e organização', 'Influência'],
   datasets: [
     {
-      label: 'Perfil',
+      label: 'Score',
       data: [2, 3, 3, 5, 2, 3, 4],
       backgroundColor: 'rgba(140, 48, 245, 0.2)',
       borderColor: '#8C30F5',
@@ -54,7 +54,7 @@ function ResultQuiz() {
   return (
     <div className="container">
       <div className="uk-text-lead uk-text-center uk-margin-top uk-text-primary-dark uk-text-bold">
-        Seu resultado
+        Seu score de conformidade:
       </div>
       <br />
      
@@ -72,14 +72,15 @@ function ResultQuiz() {
       <div className="uk-flex uk-flex-center uk-margin-top uk-flex-column uk-flex-middle">
         <div className="uk-width-1-1 uk-width-1-2@s">
           <div className="uk-text-primary-dark uk-text-bold uk-text-large uk-text-left">
-            Análise
+            Análise:
           </div>
           <div style={{ color: '#666666' }} className="uk-margin-top" >
-            Você gosta de se relacionar com o público, e exerce grande influência por onde passa. Sua criatividade aliada ao pensamento crítico e a capacidade analítica fazem de você um grande estrategista. Procure planejar com cuidado seus projetos e organizá-los com atenção, já que prefere evitar correr grandes riscos.
+            Quando o assunto é proteger dados pessoais e se adequar à Lei Geral de Proteção de Dados (LGPD), conhecer as informações de posse da empresa, saber como elas são coletadas e tratadas, além de organizá-las, é fundamental.
+            Nesse sentido, o Mapeamento de Dados é uma das etapas mais importantes no compliance às leis de proteção de dados e privacidade. Também chamado de Data Mapping, esse recurso permite visualizar o ciclo de vida dos dados para identificar possíveis inconformidades.
           </div>
           <br />
           <div className="uk-text-primary-dark uk-text-bold uk-text-large uk-text-left">
-            Pontos 
+            Pontos importante a serem realizados: 
           </div>
           <div className="uk-margin-top">
             <ul className="uk-accordion" uk-accordion="collapsible: true">

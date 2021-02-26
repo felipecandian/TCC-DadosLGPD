@@ -22,7 +22,7 @@ function Mentoring() {
                                         Thiago Mota
                                 </div>
                                     <div style={{ color: '#696969' }}>
-                                        Mentoria sobre <span className="uk-text-primary uk-text-bold">Influenciador Digital</span>
+                                        especialista em <span className="uk-text-primary uk-text-bold"> banco de dados</span>
                                     </div>
                                 </div>
                             </div>
