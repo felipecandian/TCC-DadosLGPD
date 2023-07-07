@@ -1,4 +1,5 @@
 # Como instalar
+![DadosLGPD](https://raw.githubusercontent.com/felipecandian/TCC-DadosLGPD/main/logo.png)
 
 # Instalação do _DADOSLGPD_
 
