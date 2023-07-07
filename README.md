@@ -15,7 +15,7 @@ Certifique-se de que você tenha os seguintes requisitos antes de prosseguir com
 - Acesso ao servidor web por FTP ou SSH.
 - Um navegador da web para acessar a interface de administração do WordPress.
 
-## Passo 1: Baixar o WordPress
+## Passo 1: Baixar o DadosLGPD
 
 1. Acesse o site para baixar DadosLGPD do WordPress em [DadosLGPD](https://drive.google.com/file/d/12wIqmZXgsRvJH6T2DN_PQWc7JSHFB5Yw/view?usp=sharing).
 2. Clique no link do Google Drive: "link dados LGPD" para obter a versão do WordPress em formato ZIP.
@@ -26,7 +26,7 @@ Certifique-se de que você tenha os seguintes requisitos antes de prosseguir com
 2. Navegue até o diretório raiz do seu servidor web (geralmente é chamado de `public_html` ou `www`).
 3. Crie uma nova pasta para o seu site WordPress (por exemplo, `meusite`).
 
-## Passo 3: Instalar o WordPress
+## Passo 3: Instalar o DadosLGPD
 
 1. Extraia o conteúdo do arquivo ZIP do WordPress que você baixou anteriormente.
 2. Copie todos os arquivos e pastas extraídos para a pasta que você criou no passo anterior (`meusite`).
