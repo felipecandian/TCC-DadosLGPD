@@ -1,6 +1,6 @@
 # Como instalar
 
-# Instalação do Site WordPress
+# Instalação do _DADOSLGPD_
 
 Este é um guia passo a passo para instalar um site WordPress em seu servidor. O WordPress é um sistema de gerenciamento de conteúdo (CMS) popular que permite criar e manter um site com facilidade. Vamos começar!
 
@@ -16,8 +16,8 @@ Certifique-se de que você tenha os seguintes requisitos antes de prosseguir com
 
 ## Passo 1: Baixar o WordPress
 
-1. Acesse o site oficial do WordPress em [https://wordpress.org](https://wordpress.org).
-2. Clique no botão "Baixar WordPress" para obter a versão mais recente do WordPress em formato ZIP.
+1. Acesse o site para baixar DadosLGPD do WordPress em [DadosLGPD](https://drive.google.com/file/d/12wIqmZXgsRvJH6T2DN_PQWc7JSHFB5Yw/view?usp=sharing).
+2. Clique no link do Google Drive: "link dados LGPD" para obter a versão do WordPress em formato ZIP.
 
 ## Passo 2: Preparar o servidor
 
